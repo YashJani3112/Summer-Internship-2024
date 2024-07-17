@@ -1,7 +1,3 @@
-Sure! Here's a detailed README file with day-by-day tasks for your 30-day internship at Prodigy InfoTech:
-
----
-
 # 30 Days Internship at Prodigy InfoTech
 
 ## Overview
