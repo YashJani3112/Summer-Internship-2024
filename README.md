@@ -62,7 +62,7 @@ This repository documents the day-to-day tasks and projects I completed during m
 - Preparing for code review with the mentor.
 
 ### Files:
-- `password.py`
+- `#password.py`
 
 ## Day 11-15: Implementation of Caesar Cipher
 
