@@ -62,7 +62,7 @@ This repository documents the day-to-day tasks and projects I completed during m
 - Preparing for code review with the mentor.
 
 ### Files:
-- `#password.py`
+- `password_checker.py`
 
 ## Day 11-15: Implementation of Caesar Cipher
 
@@ -87,7 +87,7 @@ This repository documents the day-to-day tasks and projects I completed during m
 - Debugging and fixing issues found during testing.
 
 ### Files:
-- `caesar.py`
+- `caesar_cipher.py`
 
 ## Day 16-20: Code Review and Testing
 
@@ -134,8 +134,8 @@ This repository documents the day-to-day tasks and projects I completed during m
 - Prepared for final review and presentation.
 
 ### Files:
-- `password.py` (updated)
-- `caesar.py` (updated)
+- `password_checker.py` (updated)
+- `caesar_cipher.py` (updated)
 
 ## Day 26-30: Documentation and Final Presentation
 
